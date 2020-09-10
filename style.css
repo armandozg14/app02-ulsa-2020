@@ -1,7 +1,16 @@
-#pokemon-image{
-    width: 20%;
-}
-
-.pokemonimage {
-    border: 10px;
-}
+#pokemon-images{
+    width: 100%;
+  } 
+  
+  body{
+    color: #4682B4;
+  }
+  
+  #title{
+    color: #4682B4;
+    /* background-color:#DC143C; */
+  }
+  
+  .pokemonImage{
+    border: solid;
+  }
