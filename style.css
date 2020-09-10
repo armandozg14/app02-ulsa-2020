@@ -3,13 +3,13 @@
   } 
   
   body{
-    color: #4682B4;
+    color: #458627;
   }
   
   #title{
-    color: #4682B4;
-    /* background-color:#DC143C; */
-  }
+    color: #d37802;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
   
   .pokemonImage{
     border: solid;
