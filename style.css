@@ -1,7 +1,16 @@
-#pokemon-image{
-    width: 20%;
+#pokemon-images{
+    width: 100%;
+  } 
+  
+  body{
+    color: #458627;
+  }
+  
+  #title{
+    color: #d37802;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
-
-.pokemonimage {
-    border: 10px;
-}
+  
+  .pokemonImage{
+    border: solid;
+  }
